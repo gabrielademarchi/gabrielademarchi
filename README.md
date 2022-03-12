@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gabrielademarchi
-- 👀 I’m interested in finance, politcs, human behaviour and movie references
+- 👀 I’m interested in finance, macroeconomics, human behaviour and movie references
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on python projects
 - 💼 Check out my latest projects on https://gabrielademarchi.github.io/
